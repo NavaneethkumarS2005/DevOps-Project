@@ -4,3 +4,4 @@ Images based on AWS Console
 ## Day 2 - Create EC2 instances
 ## Day 3 - Create VPCs, Route Tables, Internet Gateway, Subnets
 ## Day 4 - Create S3 Bucket
+## Day 7 - Docker and CLI commands 
